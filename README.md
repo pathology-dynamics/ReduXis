@@ -1,7 +1,7 @@
 ReduXis
 ============
 <p align="center">
-	<img src="https://github.com/user-attachments/assets/676eecd3-22c0-41a1-92b0-6e60f21c22d7" alt="ReduXis Logo" width="500"/>
+	<img src="https://github.com/user-attachments/assets/3847625c-9e38-4604-a6eb-2957c5936b00" alt="ReduXis Logo" width="500"/>
 </p>
 
 **Redu**ced-dimensional **X**-modality **I**ntegrated **S**tage and Subtype Inference, or ReduXis, is a lightweight and powerful
@@ -150,14 +150,13 @@ To launch the CLI help menu:
 
 This will provide a list of  key inputs such as data matrices, metadata, outcome labels, and modeling parameters, as illustrated below:
 
-![ReduXis Welcome Screen](https://github.com/user-attachments/assets/d56c4005-1dcc-4041-b8c9-8d32ef9de5ad)
+![ReduXis Welcome Screen](https://github.com/user-attachments/assets/627d662f-f721-483a-9f14-d2233d55df92)
 
 Additionally, here is an example of a successful ReduXis run, showing how the framework processes a binary-class test case with ease and elegance.
 In this scenario, the user is using colorectal adenocarcinoma as their disease of choice, with data labeled as `Normal` or `Tumor` to indicate that
 a particular tissue sample is either healthy or cancerous, respectively.
 
-[ReduXis_Demo.webm](https://github.com/user-attachments/assets/71a30192-0054-4e7e-a26d-db5afc859c33)
-
+[ReduXis_Demo.webm](https://github.com/user-attachments/assets/be0f8de4-0b95-46ac-a0f7-3367da008562)
 
 Acknowledgements
 ================
